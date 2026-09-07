@@ -1,0 +1,13 @@
+source,split,sentence_count,avg_length
+hinglid,TOTAL,43924,30.4
+hinglid,test,6340,30.1
+hinglid,train,31379,30.4
+hinglid,validation,6205,30.8
+lince_lid,TOTAL,7101,17.2
+lince_lid,test,1779,17.2
+lince_lid,train,4610,17.2
+lince_lid,validation,712,17.5
+lince_pos,TOTAL,1461,19.8
+lince_pos,test,294,19.6
+lince_pos,train,1008,20.0
+lince_pos,validation,159,18.9

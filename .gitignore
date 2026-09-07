@@ -1,0 +1,23 @@
+﻿# Large dataset files -- hosted on Google Drive, NOT committed to git
+*.parquet
+processed/hinglish_dataset.csv
+processed/hinglish_dataset.parquet
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Zip downloads
+*.zip
